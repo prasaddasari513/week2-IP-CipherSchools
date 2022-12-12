@@ -1,0 +1,26 @@
+/* inline style attribute > id selector > class selector > element selector */
+h1{
+    color: brown;
+}
+h1.heading{
+    color: blueviolet;
+}
+/* 0,0,1,1 */
+.fury{
+    color: aqua;
+}
+/* #nill{
+    color: black;
+} */
+div#container ul.my-songs li{
+    color: brown;
+    background-color: bisque;
+}
+div#container ul.my-songs li.favourite{
+    color: beige;
+    background-color: brown;
+}
+/* 0,1,2,3 --> 123 */
+h1{
+    border: 5px red;
+}

@@ -1,0 +1,26 @@
+h1{
+    background:rgb(197, 189, 189);
+    width:800px;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+body{
+    width: 1400px;
+    margin: 0 auto;
+}
+.sink{
+    border:2px solid black;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    width: 800px;
+    padding: 10px;
+}
+.sunk{
+    border:2px solid black;
+    border-radius: 3px;
+    width: 800px;
+    padding: 10px;
+}

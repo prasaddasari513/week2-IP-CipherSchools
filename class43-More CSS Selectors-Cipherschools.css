@@ -1,0 +1,27 @@
+/* *{
+    color: crimson;
+} */
+header{
+    background-color: aquamarine;
+}
+section.my-articles{
+    background-color: coral;
+}
+header p{
+    color:blue
+}
+li a{
+    color: black;
+}
+/* section.my-articles h2{
+    color: rgb(16, 233, 16);
+} */
+section.my-articles > h2{
+    color: rgb(14, 210, 14);
+}
+section.my-articles h2+p{
+    color: white;
+}
+ul+p{
+    color: orange;
+}
